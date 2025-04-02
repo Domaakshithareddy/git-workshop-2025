@@ -6,11 +6,6 @@
   <li> Roll Number: 160122737075</li>
   <li> Branch: IT</li>
 </ul>
-<ul>
-  <li> Name: Akshitha</li>
-  <li> Roll Number: 160122737075</li>
-  <li> Branch: IT</li>
-</ul>
 </details>
 <details>
 <summary><h3> 2. Implement a program to check if a number is even or odd. </h3></summary>
@@ -19,7 +14,3 @@
   <li> Use any programming language of your choice. </li>
 </ul>
 </details>
-<ul>
-  <li> Create a new file in the repository and add your code. </li>
-  <li> Use any programming language of your choice. </li>
-</ul>
